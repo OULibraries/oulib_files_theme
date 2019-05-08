@@ -1,2 +1,2 @@
-# oulib_intranet
-This is the subtheme of Bootstrap for OU Libraries Intranet sites.
+# oulib_files_theme
+boostrap subtheme for files.libraries.ou.edu. Branched from intranet theme, but with libraries footer.

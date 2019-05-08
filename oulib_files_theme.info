@@ -1,5 +1,5 @@
-name = OU Lib Intranet
-description = This is a subtheme of Bootstrap used for OU Libraries' Intranet.
+name = OU Lib Files Theme
+description = This is a subtheme of Bootstrap used for OU Libraries' Files page.
 core = 7.x
 base theme = bootstrap
 

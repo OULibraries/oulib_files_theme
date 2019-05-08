@@ -82,7 +82,7 @@
 <div id="node-<?php print $node->nid; ?>" class="<?php print $classes; ?> clearfix container"<?php print $attributes; ?>>
   <div class="row content-border">
 	<div class="col-md-1">
-		<img src="/sites/all/themes/oulib_intranet/img/alert.png" class="alert-icon">
+		<img src="/sites/all/themes/oulib_files_theme/img/alert.png" class="alert-icon">
 	</div>
     <div class="col-md-10">
 	    	<div class="left-float"><h2><?php print render($content['field_status']); ?></h2></div> 

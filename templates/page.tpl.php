@@ -248,7 +248,7 @@
 
                 <div class="col-md-3" style="padding-bottom: 30px;">
 
-                    <img src="/sites/all/themes/oulib_bootstrap/img/footerlogo.png"
+                    <img src="https://libraries.ou.edu/sites/all/themes/oulib_bootstrap/img/footerlogo.png"
                          alt="footerLogo"
                          style="float: left; padding-right: 1em;"/>
 
@@ -269,10 +269,10 @@
 
                         <ul>
 
-                            <li><a href="/contact"
+                            <li><a href="https://libraries.ou.edu/content/contact-us"
                                    alt="Contact Us link">Contact Us</a></li>
 
-                            <li><a href="/aboutsite" alt="About link">About This Site</a></li>
+                            <li><a href="https://libraries.ou.edu/content/about-website" alt="About link">About This Site</a></li>
 
                             <li><a href="http://www.ou.edu/publicaffairs/WebPolicies/accessstatement.html"
                                    alt="Accessibility link" target="_blank">Accessibility</a></li>
@@ -320,23 +320,23 @@
 
                             <li><a href="https://www.facebook.com/oulibraries"
                                    class="facebook" title="facebook"
-                                   target="_blank"><img src="../../../../../sites/all/themes/oulib_bootstrap/img/facebook.png"
+                                   target="_blank"><img src="https://libraries.ou.edu/sites/all/themes/oulib_bootstrap/img/facebook.png"
                                                         alt="Facebook Icon"></a></li>
 
                             <li><a href="https://twitter.com/OU_Libraries"
                                    class="twitter" title="twitter"
-                                   target="_blank"><img src="../../../../../sites/all/themes/oulib_bootstrap/img/twitter.png"
+                                   target="_blank"><img src="https://libraries.ou.edu/sites/all/themes/oulib_bootstrap/img/twitter.png"
                                                         alt="Twitter Icon"></a></li>
 
                             <li>
                                 <a href="https://www.youtube.com/channel/UCvRR9Wy7ECUS0DQbOp2dnbg"
                                    class="youtube" title="youtube"
-                                   target="_blank"><img src="../../../../../sites/all/themes/oulib_bootstrap/img/youtube.png"
+                                   target="_blank"><img src="https://libraries.ou.edu/sites/all/themes/oulib_bootstrap/img/youtube.png"
                                                         alt="YouTube Icon"></a></li>
 
                             <li><a href="https://www.instagram.com/oulibraries/"
                                    class="instagram" title="instagram"
-                                   target="_blank"><img src="../../../../../sites/all/themes/oulib_bootstrap/img/instagram.png"
+                                   target="_blank"><img src="https://libraries.ou.edu/sites/all/themes/oulib_bootstrap/img/instagram.png"
                                                         alt="Instagram Icon"></a></li>
 
                         </ul>

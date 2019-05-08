@@ -8,7 +8,7 @@
 /**
 * Implements hook_preprocess_html().
 */
-function oulib_intranet_preprocess_html (&$vars) {
+function oulib_files_theme_preprocess_html (&$vars) {
   
   $data = array(
      '#tag' => 'meta',
